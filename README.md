@@ -1,5 +1,7 @@
 <h1>Intérprete similar al lenguaje Ruby escrito en Racket (Similar interpreter of Ruby written in Racket)</h1>
+<p align="center">
 <img src="https://i.ibb.co/6sgHtds/Captura-de-pantalla-de-2020-07-27-18-13-53.png">
+</p>
 <p><b> English: </b> </p>
 <p><b> Español: </b> </p>
 <h1>Application Architecture (Arquitectura de la Aplicación)</h1>
