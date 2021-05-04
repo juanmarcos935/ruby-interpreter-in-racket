@@ -1,30 +1,17 @@
-<h1>Intérprete similar al lenguaje Ruby escrito en Racket (Similar interpreter of Ruby written in Racket)</h1>
+<h1>TL;DR for this repo:</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/512px-Racket-logo.svg.png" height="100" width="100">
+<ul>
+  <li><h4>Technologies used:</h4>Racket</li>
+  <li><h4>Approximate date:</h4>Second semester of 2018</li>
+  <li><h4>Purpose:</h4>It's the final project of the Programming Languages course (sort of Compilers course) of college. It is a Ruby-like interpreter wrote in Racket programming language, using SLLGEN library (this library is special for helping to create syntax and grammar rules in order to build a new language). By doing this project i learned about syntax specification, grammar specification of Programming Languages, closures, strings, expressions and more. It supports a lot of operations (and his syntax is very similar to Ruby) like arithmetic operations, loops, variables, booleans, conditionals and more.</li>
+  <li><h4>Preview:</h4></li>
+</ul>
 <p align="center">
-<img src="https://i.ibb.co/6sgHtds/Captura-de-pantalla-de-2020-07-27-18-13-53.png">
+    <img src="https://i.ibb.co/r7hQNkq/Screenshot-from-2021-05-04-18-23-31.png">
 </p>
-<p><b> English: </b> </p>
-<p><b> Español: </b> </p>
-<h1>Application Architecture (Arquitectura de la Aplicación)</h1>
 <p align="center">
-  <img src="https://i.ibb.co/GV0rjdZ/Captura-de-pantalla-de-2020-07-27-13-16-01.png">
+    <img src="https://i.ibb.co/mFmddrt/Screenshot-from-2021-05-04-18-25-28.png">
 </p>
-<p><b> English: </b></p>
-<p><b> Español: </b> </p>
-<ul>
-	<li><a href="#1-english">Go to English Documentation</a></li>
-	<li><a href="#2-spanish">Ir a la Documentación en Español</a></li>
-</ul>
-<h2 id="1-english">English Documentation</h3>
-<h3> What did I learn doing this project? </h2>
-<ul>
-	<li>a</li>
-</ul>
-<h4>Download and installation</h4>
-<h4>Usage</h4>
-<h2 id="2-spanish">Documentación en Español</h3>
-<h3> ¿Qué aprendí llevando a cabo este proyecto? </h2>
-<ul>
-	<li>a</li>
-</ul>
-<h4>Descarga e instalación</h4>
-<h4>Uso</h4>
+<p align="center">
+    <img src="https://i.ibb.co/D7Y506W/Screenshot-from-2021-05-04-18-26-04.png">
+</p>
